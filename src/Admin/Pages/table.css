@@ -1,0 +1,216 @@
+@font-face {
+    font-family: Avenir-regular;
+    src: url(../../font/AvenirNextFont.ttf);
+}
+
+@font-face {
+    font-family: Avenir-bold;
+    src: url(../../font/AvenirNextLTPro-Bold.otf);
+}
+
+
+.jPphKt {
+    margin-bottom: 40px;
+}
+
+
+.ewhdCu {
+    background-color: transparent !important;
+
+}
+
+.sc-fbJfA {
+    color: #1C1C1C !important;
+    font-family: Avenir-regular;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.sc-hLseeU {
+    color: #1C1C1C !important;
+    font-family: Avenir-regular;
+    font-size: 12px;
+}
+
+.cKBiPJ:not(:last-of-type) {
+    border-bottom-style: none !important;
+}
+
+.hBHzWR {
+    margin-bottom: 15px;
+}
+
+.rdt_TableRow {
+    margin-bottom: 8px;
+}
+
+::placeholder {
+    color: #FFFFFF;
+    /* Replace #999 with your desired color */
+}
+
+.default_bg {
+    background-color: #2873B9 !important;
+}
+
+.default_btn {
+    background-color: #2873B9 !important;
+    color: white;
+    font-family: Avenir-regular;
+}
+
+.filter_btn {
+    background-color: #2873B9 !important;
+    border-radius: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.786rem 0.786rem !important;
+    border-radius: 10px !important;
+}
+
+/* .dropdown-toggle::after {
+    display: none !important;
+} */
+
+.btn-secondary:focus,
+.btn-secondary:active,
+.btn-secondary.active {
+    background-color: #2873B9 !important;
+}
+
+.head_title {
+    color: #1C1C1C;
+    font-family: Avenir-regular;
+    font-size: 24px;
+}
+
+.filter_img {
+    width: 20px;
+    height: 20px,
+}
+
+.icon_div_main {
+    background-color: #E7E7FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+.icon_sizee {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+}
+
+.modal_title {
+    color: #1C1C1C;
+    font-family: Avenir-regular;
+    font-size: 24px;
+}
+
+.modal_subtitle {
+    color: #1C1C1C;
+    font-family: Avenir-regular;
+    font-size: 14px;
+}
+
+.input_label {
+    color: #1C1C1C;
+    font-family: Avenir-regular;
+    font-size: 14px;
+}
+
+.modal-header {
+    background-color: transparent !important;
+}
+
+.btn-outline-secondary:hover:not(.disabled):not(:disabled) {
+    color: white !important;
+}
+
+.search_icon {
+    width: 20px;
+    height: 20px;
+
+}
+
+/* Add this CSS to your stylesheet or component's CSS */
+.truncate-paragraph {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.truncate-paragraph_head {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Style the ellipsis (...) */
+/* .truncate-paragraph::after {
+    content: '...';
+} */
+
+.flatpickr-calendar {
+    display: none !important;
+}
+
+.header-navbar .navbar-container ul.navbar-nav li i.ficon,
+.header-navbar .navbar-container ul.navbar-nav li svg.ficon {
+    color: white !important;
+}
+
+.calndar_drop {
+    background-color: #2873B9 !important;
+    border-radius: 8px;
+}
+
+.calendar_main {
+    background-color: #2873B9 !important;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+
+}
+
+.coun_nbr {
+    padding: 0.2rem 0.6rem !important;
+
+}
+
+.video_div div {
+    width: 100% !important;
+    height: 250px !important;
+}
+
+.modal-header .btn-close {
+    background-image: url(../assests/icons/close-btn.png) !important;
+}
+
+
+/* customiz select */
+
+.custom_select .select__value-container .css-1jqq78o-placeholder {
+    color: white !important;
+}
+
+.custom_select .select__indicator svg {
+    color: white !important;
+}
+
+.custom_select .css-1fdsijx-ValueContainer .select__single-value {
+    color: white !important;
+}
+
+.main_select_div {
+    border: 1px solid #d8d6de;
+    display: flex;
+    align-items: center;
+    border-radius: 7px;
+}
