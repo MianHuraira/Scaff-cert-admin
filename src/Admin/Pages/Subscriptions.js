@@ -525,7 +525,7 @@ const Subscriptions = () => {
                 <div className="icon_div_main mb-2">
                   {/* <img className="icon_sizee" src={userIcon} alt="" /> */}
                 </div>
-                <h5 className="modal_title">Edit New Client</h5>
+                <h5 className="modal_title">Edit Subscription</h5>
                 <span className="modal_subtitle">
                   Eneter the correct details of your client which you want to
                   edit.
